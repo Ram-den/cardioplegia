@@ -1,0 +1,25 @@
+{
+    "name": "Brent Sellers",
+    "age": 40,
+    "address": {
+        "street": "Gay Stream",
+        "city": "Sandersstad",
+        "state": "Maryland",
+        "zip": "55208"
+    },
+    "contact": {
+        "phone": "2437298163",
+        "servicePhone": "800186364"
+    },
+    "birthday": "1985-14-03",
+    "ip": "164.195.247.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Provide while peace environment just. Understand how structure certainly bill mission become.\nDaughter across voice food enjoy lose finally.",
+        "bio": "Believe pull reduce national program stand. History party enjoy may. City record low art begin western. Billion while mission management floor very."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
