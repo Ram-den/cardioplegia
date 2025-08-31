@@ -1,0 +1,25 @@
+{
+    "name": "Charles House",
+    "age": 115,
+    "address": {
+        "street": "Jason Mount",
+        "city": "North Jacob",
+        "state": "Texas",
+        "zip": "23838"
+    },
+    "contact": {
+        "phone": "(666)786-6996x052",
+        "servicePhone": "800252567"
+    },
+    "birthday": "1910-07-10",
+    "ip": "151.253.174.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Particularly morning name TV same police clearly. Court rise through describe positive deep send. Would project in.",
+        "bio": "Mother drop environment say blue open likely. Son though professor resource pick about."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
