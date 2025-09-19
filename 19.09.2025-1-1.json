@@ -1,0 +1,25 @@
+{
+    "name": "Michael Carroll",
+    "age": 46,
+    "address": {
+        "street": "Rojas Fork",
+        "city": "Stevensberg",
+        "state": "New York",
+        "zip": "75418"
+    },
+    "contact": {
+        "phone": "+1-927-417-4129x36100",
+        "servicePhone": "800252654"
+    },
+    "birthday": "1979-26-10",
+    "ip": "16.64.39.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Write per better serve. High school system early serious. Your expert beautiful fast city paper.\nPositive investment as. Might sure think type politics. Training modern firm relate behavior.",
+        "bio": "Whatever kid than. Court government age six appear capital apply.\nMany sing six research condition large. Class set friend set choose available."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
