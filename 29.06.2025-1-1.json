@@ -1,0 +1,25 @@
+{
+    "name": "Traci Phillips",
+    "age": 87,
+    "address": {
+        "street": "Graham Extensions",
+        "city": "Petersonview",
+        "state": "Nevada",
+        "zip": "23391"
+    },
+    "contact": {
+        "phone": "276.876.3505x869",
+        "servicePhone": "800679464"
+    },
+    "birthday": "1938-04-04",
+    "ip": "222.252.70.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Act able action suddenly. Degree we discover. Stand little serve yet maintain say. Skill after smile.\nModel artist somebody draw watch send role. Campaign your collection end.",
+        "bio": "Boy college read visit building. Media data threat computer among. Tough bad certain let candidate."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
