@@ -1,0 +1,25 @@
+{
+    "name": "Allen Rodriguez",
+    "age": 5,
+    "address": {
+        "street": "Daniel Mills",
+        "city": "Joannaberg",
+        "state": "Virginia",
+        "zip": "20863"
+    },
+    "contact": {
+        "phone": "(508)270-9900x1501",
+        "servicePhone": "800908884"
+    },
+    "birthday": "2020-29-12",
+    "ip": "84.95.198.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Per red act follow. Both magazine decide candidate body task.\nBring ask hear. Something candidate have true. Show include power realize teach probably gun.",
+        "bio": "Mouth air owner often. Line fill explain generation process. May test much become likely past.\nNearly away bill. Agree bring soon available amount field cause."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
