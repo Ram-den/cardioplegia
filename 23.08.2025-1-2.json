@@ -1,0 +1,25 @@
+{
+    "name": "Joy Wolfe",
+    "age": 99,
+    "address": {
+        "street": "Wilkerson Crescent",
+        "city": "Lake Susanchester",
+        "state": "North Dakota",
+        "zip": "56402"
+    },
+    "contact": {
+        "phone": "847-746-5880",
+        "servicePhone": "800602147"
+    },
+    "birthday": "1926-30-07",
+    "ip": "51.34.172.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Any better center tree argue. Improve site seem drug quickly various.\nAgreement guess staff personal. Human cut near help throw. Box standard away author center staff. Over cut heart media.",
+        "bio": "Listen course fly.\nToo reduce include all. Why help student partner interesting why stage."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}

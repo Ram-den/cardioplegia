@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Ramos",
+    "age": 114,
+    "address": {
+        "street": "Chandler Ferry",
+        "city": "Wrightville",
+        "state": "Virginia",
+        "zip": "61677"
+    },
+    "contact": {
+        "phone": "001-536-938-6090",
+        "servicePhone": "800234118"
+    },
+    "birthday": "1911-17-09",
+    "ip": "50.72.36.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Police while different once significant. Interesting soldier federal history number thing teacher however. Physical east set person record.",
+        "bio": "Rock nearly growth movement safe increase. Short rise new door. Civil physical study operation never large. Ago design eat.\nAnimal effect argue though option laugh treat."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}

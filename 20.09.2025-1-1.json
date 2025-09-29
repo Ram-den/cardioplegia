@@ -1,0 +1,25 @@
+{
+    "name": "Raymond Santiago",
+    "age": 53,
+    "address": {
+        "street": "Holmes Dale",
+        "city": "Christineport",
+        "state": "Alabama",
+        "zip": "56364"
+    },
+    "contact": {
+        "phone": "972.496.5253",
+        "servicePhone": "800380781"
+    },
+    "birthday": "1972-06-07",
+    "ip": "79.253.189.244",
+    "foo": "bar",
+    "profile": {
+        "about": "General feel second year class degree pattern kitchen. Draw easy significant buy choice consumer sister.\nCompany health bill catch at southern my. Soldier economy nice theory trade writer science.",
+        "bio": "Outside specific hope morning site. Everything kind move begin firm among rule. Challenge trade author in someone blood though. Rich office dark among data."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}

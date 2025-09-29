@@ -1,0 +1,25 @@
+{
+    "name": "Kelsey Graham",
+    "age": 16,
+    "address": {
+        "street": "Natasha Road",
+        "city": "Thompsonfort",
+        "state": "Nevada",
+        "zip": "25585"
+    },
+    "contact": {
+        "phone": "(899)927-7541x18693",
+        "servicePhone": "800133285"
+    },
+    "birthday": "2009-06-05",
+    "ip": "197.250.152.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Themselves no rest seek suddenly watch look. Next draw local support during be enjoy lay.\nBag stuff full body break evening consumer. Congress still something compare together.",
+        "bio": "Professional activity force pick pick article. Table arm also full something present environment radio.\nAlmost choice long owner fight attorney mind."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}

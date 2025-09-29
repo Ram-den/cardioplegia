@@ -1,0 +1,25 @@
+{
+    "name": "Erin Smith",
+    "age": 67,
+    "address": {
+        "street": "Jason Spur",
+        "city": "Warrenstad",
+        "state": "Arizona",
+        "zip": "44130"
+    },
+    "contact": {
+        "phone": "(866)499-6705",
+        "servicePhone": "800887561"
+    },
+    "birthday": "1958-23-11",
+    "ip": "74.149.22.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Employee think oil design lot edge. Whole early enter thing yeah not.\nRequire reason development through strategy. Difference within floor travel.",
+        "bio": "Happen report argue democratic trial PM course. Again suffer into his value environmental include respond.\nAffect card remember say such make almost."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}

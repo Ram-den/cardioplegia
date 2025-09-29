@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Flynn",
+    "age": 113,
+    "address": {
+        "street": "Kristin Fork",
+        "city": "West Sandramouth",
+        "state": "New Mexico",
+        "zip": "35769"
+    },
+    "contact": {
+        "phone": "708.271.8289",
+        "servicePhone": "800252352"
+    },
+    "birthday": "1912-10-06",
+    "ip": "194.60.123.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Compare house various suggest. Mother business case difficult crime theory push.\nLoss arm ball feeling hundred around carry sense. Standard mention argue explain.",
+        "bio": "Truth sort rate simple. Officer too mouth simple enjoy themselves.\nArticle blue arrive believe. Dark somebody approach high whose piece difficult."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
