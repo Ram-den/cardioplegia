@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Rodriguez",
+    "age": 75,
+    "address": {
+        "street": "Johnson Walk",
+        "city": "Susanland",
+        "state": "Maryland",
+        "zip": "21045"
+    },
+    "contact": {
+        "phone": "435-378-1965",
+        "servicePhone": "800089703"
+    },
+    "birthday": "1950-11-05",
+    "ip": "85.188.192.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Firm him believe region part. Beyond friend population entire candidate.",
+        "bio": "Cell drive dog decade.\nKind help ability Republican should watch raise. System common road everyone important attention box."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
