@@ -1,0 +1,25 @@
+{
+    "name": "Erica Bishop",
+    "age": 108,
+    "address": {
+        "street": "Harris Place",
+        "city": "Port Ryan",
+        "state": "Indiana",
+        "zip": "62041"
+    },
+    "contact": {
+        "phone": "899-490-4651",
+        "servicePhone": "800684885"
+    },
+    "birthday": "1917-04-06",
+    "ip": "137.213.206.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Property adult day act. Far partner last least lead in.\nTough remain college success one. Western serious already view someone spring real.\nItem sell five drive choose official. No training computer.",
+        "bio": "Heart daughter rise every figure war anyone. Occur officer audience common watch there south step. Provide consumer community able group. Camera direction another."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
