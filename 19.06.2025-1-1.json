@@ -1,0 +1,25 @@
+{
+    "name": "Steven Pruitt",
+    "age": 14,
+    "address": {
+        "street": "Costa Station",
+        "city": "East Markland",
+        "state": "Oregon",
+        "zip": "51913"
+    },
+    "contact": {
+        "phone": "(759)733-2949",
+        "servicePhone": "800515706"
+    },
+    "birthday": "2011-26-11",
+    "ip": "205.38.172.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Not check building until available. Various common less decade middle employee group lot.\nEat trial later country.\nAbility piece investment heavy staff.",
+        "bio": "Challenge this with paper. Find sing goal recognize Congress send.\nRequire common perform. Wait hand approach statement spend whether decide prevent."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
