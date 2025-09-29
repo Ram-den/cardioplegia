@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Williams",
+    "age": 39,
+    "address": {
+        "street": "Curtis View",
+        "city": "South Thomas",
+        "state": "Arkansas",
+        "zip": "62318"
+    },
+    "contact": {
+        "phone": "880-714-7297",
+        "servicePhone": "800405718"
+    },
+    "birthday": "1986-24-11",
+    "ip": "217.161.119.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Mind example site others support. Heavy total give simple. Without window type floor meet only.\nScene successful least deep role general. Box while see impact whose those phone.",
+        "bio": "Break east drive will individual citizen project. Beautiful pay begin information daughter."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}

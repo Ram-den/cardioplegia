@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Price",
+    "age": 105,
+    "address": {
+        "street": "Emily Plains",
+        "city": "Port Rubenfort",
+        "state": "Florida",
+        "zip": "23253"
+    },
+    "contact": {
+        "phone": "+1-609-216-0655x16089",
+        "servicePhone": "800405137"
+    },
+    "birthday": "1920-02-02",
+    "ip": "218.124.61.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Bank into nation evidence.\nSingle less group wind carry development same. Admit begin finally wear newspaper serve affect commercial. Per field strong all.",
+        "bio": "Sign identify fill lay. Building bring address billion front report.\nElse standard decision different occur hospital. Weight to store nothing."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}

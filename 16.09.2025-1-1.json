@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Kimberly Hernandez",
+    "age": 99,
+    "address": {
+        "street": "Vasquez Inlet",
+        "city": "Port Elizabeth",
+        "state": "Mississippi",
+        "zip": "24781"
+    },
+    "contact": {
+        "phone": "001-579-735-4745",
+        "servicePhone": "800790560"
+    },
+    "birthday": "1926-25-04",
+    "ip": "84.58.81.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Kid nice defense simple care audience.\nQuestion seven respond view. Perform happen at discuss special she.",
+        "bio": "Interest front perhaps man thus. Follow fine find anyone. Office animal specific page task face."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
