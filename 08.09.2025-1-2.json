@@ -1,0 +1,25 @@
+{
+    "name": "Amy Klein",
+    "age": 85,
+    "address": {
+        "street": "Blake Mount",
+        "city": "Mooneyburgh",
+        "state": "North Carolina",
+        "zip": "33042"
+    },
+    "contact": {
+        "phone": "001-574-318-3307x282",
+        "servicePhone": "800110970"
+    },
+    "birthday": "1940-09-04",
+    "ip": "222.230.152.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Evidence little film. Talk of deal environmental.\nMain end base. Push task court unit guess. Stand usually like attorney say experience option.",
+        "bio": "With travel street get. Hold community city for low degree national.\nCapital certain attack mention body interest. Democratic per century any. Mention about it with."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Henry",
+    "age": 16,
+    "address": {
+        "street": "James Island",
+        "city": "Wrightchester",
+        "state": "Alaska",
+        "zip": "42971"
+    },
+    "contact": {
+        "phone": "620.655.4002",
+        "servicePhone": "800580575"
+    },
+    "birthday": "2009-19-12",
+    "ip": "41.3.11.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Option another open middle water. Life shoulder join. Film way house hold newspaper upon study.",
+        "bio": "Explain threat interview old world. Agreement reach usually cause church."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
