@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Holmes",
+    "age": 43,
+    "address": {
+        "street": "Rollins Lakes",
+        "city": "Hansenfurt",
+        "state": "Idaho",
+        "zip": "90617"
+    },
+    "contact": {
+        "phone": "(815)719-6688x334",
+        "servicePhone": "800407984"
+    },
+    "birthday": "1982-26-04",
+    "ip": "175.90.175.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Reach step natural above hair pass. Sound father seek. Agreement myself simple ago make. North test day smile skill trial good now.",
+        "bio": "Hundred most find politics. Both color financial program memory seem.\nOfficial sell modern baby.\nPoor someone wife education. College measure right simple year reason. Attack figure build lead."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}

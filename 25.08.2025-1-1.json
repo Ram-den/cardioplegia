@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Berry",
+    "age": 83,
+    "address": {
+        "street": "Julie Ways",
+        "city": "South Thomas",
+        "state": "North Dakota",
+        "zip": "07731"
+    },
+    "contact": {
+        "phone": "384-671-0707x299",
+        "servicePhone": "800788192"
+    },
+    "birthday": "1942-06-04",
+    "ip": "110.194.157.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Region whatever since region race write him. Career would research newspaper. Individual director more.\nFace try term accept different.",
+        "bio": "Month garden cultural surface. Lawyer unit more staff center front.\nView lose investment material. New they effort ok."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}

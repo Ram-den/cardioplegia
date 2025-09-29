@@ -1,0 +1,25 @@
+{
+    "name": "Mary Greer",
+    "age": 19,
+    "address": {
+        "street": "George Run",
+        "city": "Smithberg",
+        "state": "Rhode Island",
+        "zip": "48620"
+    },
+    "contact": {
+        "phone": "(541)951-6720x1726",
+        "servicePhone": "800877331"
+    },
+    "birthday": "2006-02-02",
+    "ip": "82.202.48.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Senior tough president people provide doctor next.\nDirector fly right figure lawyer. Part daughter meet health look commercial forget.",
+        "bio": "Responsibility difficult church able resource plan radio who. Add skin song fish your."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}

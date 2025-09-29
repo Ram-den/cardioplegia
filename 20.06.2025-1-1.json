@@ -1,0 +1,25 @@
+{
+    "name": "Lori Woods",
+    "age": 112,
+    "address": {
+        "street": "Kimberly Locks",
+        "city": "Mercadoshire",
+        "state": "Connecticut",
+        "zip": "55921"
+    },
+    "contact": {
+        "phone": "001-205-739-9366x026",
+        "servicePhone": "800340903"
+    },
+    "birthday": "1913-02-11",
+    "ip": "45.151.3.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Rest law mean old soldier. Help remain technology behavior window.\nMinute responsibility draw rather plan. Edge maintain these toward arm research.",
+        "bio": "Bit church during stage. Front game indeed professional.\nSix probably produce investment exist. Positive business rock himself account."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
