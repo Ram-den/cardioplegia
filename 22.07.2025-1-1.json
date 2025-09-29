@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Matthews",
+    "age": 73,
+    "address": {
+        "street": "Higgins Gardens",
+        "city": "East Abigailburgh",
+        "state": "Virginia",
+        "zip": "58596"
+    },
+    "contact": {
+        "phone": "467-660-1151",
+        "servicePhone": "800170135"
+    },
+    "birthday": "1952-10-01",
+    "ip": "75.43.35.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Police personal nothing design expert let give.\nWish discover up small candidate cover sell. Drive south artist statement three.",
+        "bio": "Dog although thank instead mention group respond.\nAlone in traditional financial employee decade former. Let someone very paper detail live pressure."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}

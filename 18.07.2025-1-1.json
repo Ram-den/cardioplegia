@@ -1,0 +1,25 @@
+{
+    "name": "Joe Murray",
+    "age": 76,
+    "address": {
+        "street": "Diana Spurs",
+        "city": "Lake Shirleyview",
+        "state": "Mississippi",
+        "zip": "15256"
+    },
+    "contact": {
+        "phone": "539-463-2324",
+        "servicePhone": "800485214"
+    },
+    "birthday": "1949-22-09",
+    "ip": "8.188.32.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Available western service nor. Of product first her tonight. Window like edge television real management spring ok.",
+        "bio": "Movement improve than follow tonight part. Difficult serve home clear. Share drug carry appear apply international."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
