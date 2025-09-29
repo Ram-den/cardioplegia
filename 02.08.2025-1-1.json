@@ -1,0 +1,25 @@
+{
+    "name": "Carolyn Miller",
+    "age": 33,
+    "address": {
+        "street": "Tammy Valley",
+        "city": "Woodshaven",
+        "state": "Kentucky",
+        "zip": "48566"
+    },
+    "contact": {
+        "phone": "+1-861-392-2822",
+        "servicePhone": "800250730"
+    },
+    "birthday": "1992-28-12",
+    "ip": "171.122.131.97",
+    "foo": "bar",
+    "profile": {
+        "about": "South adult fly fish. Side visit public throughout recognize far. Yeah drug government memory and trouble owner.",
+        "bio": "Citizen power choice position decide necessary near. Next decade including bank follow economy.\nScore agent test common decision guess least. Enough store discuss lose."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
