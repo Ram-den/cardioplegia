@@ -1,0 +1,25 @@
+{
+    "name": "Cindy Bradley",
+    "age": 76,
+    "address": {
+        "street": "Danielle Ferry",
+        "city": "Port Pamela",
+        "state": "Florida",
+        "zip": "27597"
+    },
+    "contact": {
+        "phone": "+1-244-639-0099x7043",
+        "servicePhone": "800378248"
+    },
+    "birthday": "1949-18-09",
+    "ip": "184.17.31.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Moment whom still agree cost close person receive. Site occur information TV position even impact.",
+        "bio": "Three fund behavior eat. Spring more benefit way nature. Machine imagine throw yeah first."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
