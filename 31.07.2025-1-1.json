@@ -1,0 +1,25 @@
+{
+    "name": "Dale Garcia",
+    "age": 24,
+    "address": {
+        "street": "Matthew Route",
+        "city": "West Christophermouth",
+        "state": "New Mexico",
+        "zip": "05779"
+    },
+    "contact": {
+        "phone": "+1-800-918-1728x428",
+        "servicePhone": "800948105"
+    },
+    "birthday": "2001-28-08",
+    "ip": "31.146.123.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Find fill pull eat west special course major. Participant far often fly. Boy receive low reduce.\nHold bit fly company.\nDrug right like line Mrs. Professional writer economy nature art set sure.",
+        "bio": "Watch law player nice race discussion environment. Open plan week deal effect. Someone remember address individual environment rate."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}

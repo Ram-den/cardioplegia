@@ -1,0 +1,25 @@
+{
+    "name": "Terry Hunt",
+    "age": 53,
+    "address": {
+        "street": "Martin Mountains",
+        "city": "Currytown",
+        "state": "Rhode Island",
+        "zip": "25639"
+    },
+    "contact": {
+        "phone": "+1-325-428-1480x808",
+        "servicePhone": "800077332"
+    },
+    "birthday": "1972-08-07",
+    "ip": "82.129.86.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Policy allow leave why account simply. Attack section bed. Also old contain no author audience tree.",
+        "bio": "Never water sport get place whether matter. Ahead where style.\nHigh budget term TV crime. Able rather month specific yard option Congress.\nSense sing strategy hope tree car many without."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}

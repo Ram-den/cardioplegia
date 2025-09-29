@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Dillon",
+    "age": 33,
+    "address": {
+        "street": "Jonathan Forge",
+        "city": "Jamesbury",
+        "state": "Colorado",
+        "zip": "99554"
+    },
+    "contact": {
+        "phone": "7203033484",
+        "servicePhone": "800368870"
+    },
+    "birthday": "1992-09-06",
+    "ip": "77.17.248.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Responsibility everyone travel fall certainly south fire ball. Police at state pull image important. Dream want Democrat history.\nHim left suffer that.",
+        "bio": "Result painting decade throughout TV know. Radio similar kitchen consumer upon.\nDirector local listen team election worker part. Enjoy law generation shoulder call claim specific them."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
